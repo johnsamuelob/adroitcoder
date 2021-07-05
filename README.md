@@ -28,7 +28,7 @@ Hi 👋, I'm John Samuel Obinna,  Full-stack developer,I love to share my knowle
 <a href="https://twitter.com/adroitcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adroitcoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adroitcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adroitcoder" height="30" width="40" /></a>
 <a href="https://medium.com/@adroitcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@adroitcoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devtalk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="devtalk" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/devtalk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="devtalk" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
