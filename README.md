@@ -9,25 +9,25 @@ Hi 👋, I'm John Samuel Obinna,  Full-stack developer,I love to share my knowle
 
 - :iphone: Checkout my [Whatsapp Clone](https://github.com/coderonfleek/whatsapp-clone) 
 
-- 📫 How to reach me **DM on Twitter @coderonfleek**
+- 📫 How to reach me **DM on Twitter @adroitcoder**
 
 - 🔭 I’m currently working on [A Zoom clone with WebRTC technology](https://github.com/coderonfleek/twilio-electron-video)
 
-- 🌱 I’m currently learning **DevOps, Microservices, Automation**
+- 🌱 I’m currently learning **Golang, Microservices, Automation**
 
 - :computer: My [Udemy Courses](https://www.udemy.com/user/fikayo-adepoju/)
 
 - 👯 I’m looking to collaborate on **Interesting Ionic Projects on the [Awesome-Ionic repository](https://github.com/Alexintosh/Awesome-Ionic)**
 
-- 📄 Know about my experiences [coderonfleek.com](coderonfleek.com)
+- 📄 Know about my experiences [johnsamuelobinna.com](johnsamuelobinna.com)
 
 - ⚡ Fun fact: **I enjoy mentoring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/coderonfleek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="coderonfleek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fikayoadepoju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fikayoadepoju" height="30" width="40" /></a>
-<a href="https://medium.com/@coderonfleek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@coderonfleek" height="30" width="40" /></a>
+<a href="https://twitter.com/adroitcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adroitcoder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adroitcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adroitcoder" height="30" width="40" /></a>
+<a href="https://medium.com/@adroitcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@adroitcoder" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/devtalk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="devtalk" height="30" width="40" /></a>
 </p>
 
