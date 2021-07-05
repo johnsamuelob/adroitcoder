@@ -3,21 +3,21 @@ Hi 👋, I'm John Samuel Obinna,  Full-stack developer,I love to share my knowle
 
 <p align="left"> <a href="https://twitter.com/adroitcoder" target="blank"><img src="https://img.shields.io/twitter/follow/adroitcoder?logo=twitter&style=for-the-badge" alt="adroitcoder" /></a> </p>
 
-- 📝 I regularly write articles for [CircleCI](https://circleci.com), [Twilio](https://twilio.com), [Auth0](https://auth0.com) etc. Find them here [https://github.com/coderonfleek/articles-by-fikayo](https://github.com/coderonfleek/articles-by-fikayo)
+<!-- - 📝 I regularly write articles on [Dev.to](https://dev.to/adroitcoder), Find them here [https://github.com/coderonfleek/articles-by-fikayo](https://github.com/coderonfleek/articles-by-fikayo) -->
 
-- 💬 Ask me about **Web-based technologies and Node.js**
+- 💬 Ask me about **Web-based technologies and PHP(Laravel)**
 
-- :iphone: Checkout my [Whatsapp Clone](https://github.com/coderonfleek/whatsapp-clone) 
+<!-- - :iphone: Checkout my [Whatsapp Clone](https://github.com/coderonfleek/whatsapp-clone)  -->
 
 - 📫 How to reach me **DM on Twitter @adroitcoder**
 
-- 🔭 I’m currently working on [A Zoom clone with WebRTC technology](https://github.com/coderonfleek/twilio-electron-video)
+<!-- - 🔭 I’m currently working on [A Zoom clone with WebRTC technology](https://github.com/coderonfleek/twilio-electron-video) -->
 
 - 🌱 I’m currently learning **Golang, Microservices, Automation**
 
-- :computer: My [Udemy Courses](https://www.udemy.com/user/fikayo-adepoju/)
+<!-- - :computer: My [Udemy Courses](https://www.udemy.com/user/fikayo-adepoju/) -->
 
-- 👯 I’m looking to collaborate on **Interesting Ionic Projects on the [Awesome-Ionic repository](https://github.com/Alexintosh/Awesome-Ionic)**
+<!-- - 👯 I’m looking to collaborate on **Interesting Ionic Projects on the [Awesome-Ionic repository](https://github.com/Alexintosh/Awesome-Ionic)** -->
 
 - 📄 Know about my experiences [johnsamuelobinna.com](johnsamuelobinna.com)
 
