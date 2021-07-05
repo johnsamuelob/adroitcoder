@@ -3,7 +3,7 @@ Hi 👋, I'm John Samuel Obinna,  Full-stack developer,I love to share my knowle
 
 <p align="left"> <a href="https://twitter.com/adroitcoder" target="blank"><img src="https://img.shields.io/twitter/follow/adroitcoder?logo=twitter&style=for-the-badge" alt="adroitcoder" /></a> </p>
 
-<!-- - 📝 I regularly write articles on [Dev.to](https://dev.to/adroitcoder), Find them here [https://github.com/coderonfleek/articles-by-fikayo](https://github.com/coderonfleek/articles-by-fikayo) -->
+- 📝 I regularly write articles on [Dev.to](https://dev.to/adroitcoder), Find them here [https://github.com/adroitcoder/articles-by-obinna](https://github.com/adroitcoder/articles-by-obinna)
 
 - 💬 Ask me about **Web-based technologies and PHP(Laravel)**
 
