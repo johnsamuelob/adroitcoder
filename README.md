@@ -1,4 +1,5 @@
-Hi 👋, I'm John Samuel Obinna,  Full-stack developer,I love to share my knowledge to as many developers as would benefit from it. 
+Hi 👋, I'm John Samuel Obinna,  Full-stack developer,  proficient in Web technologies with over 5 years of experience developing scalable distributed applications I love to share my knowledge to as many developers as would benefit from it. 
+
 <h3 align="center">I like to hack on cool web stuff</h3>
 
 <p align="left"> <a href="https://twitter.com/adroitcoder" target="blank"><img src="https://img.shields.io/twitter/follow/adroitcoder?logo=twitter&style=for-the-badge" alt="adroitcoder" /></a> </p>
