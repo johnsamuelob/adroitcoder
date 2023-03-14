@@ -2,9 +2,9 @@ Hi 👋, I'm John Samuel Obinna,  Full-stack developer,  proficient in Web techn
 
 <h3 align="center">I like to hack on cool web stuff</h3>
 
-<p align="left"> <a href="https://twitter.com/adroitcoder" target="blank"><img src="https://img.shields.io/twitter/follow/adroitcoder?logo=twitter&style=for-the-badge" alt="adroitcoder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/johnsamuelob" target="blank"><img src="https://img.shields.io/twitter/follow/johnsamuelob?logo=twitter&style=for-the-badge" alt="johnsamuelob" /></a> </p>
 
-- 📝 I regularly write articles on [Dev.to](https://dev.to/adroitcoder), Find them here [https://github.com/adroitcoder/articles-by-obinna](https://github.com/adroitcoder/articles-by-obinna)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/johnsamuelob), Find them here [https://github.com/adroitcoder/articles-by-obinna](https://github.com/johnsamuelob/articles-by-obinna)
 
 - 💬 Ask me about **Web-based technologies and PHP(Laravel)**
 
